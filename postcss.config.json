@@ -1,7 +1,8 @@
 {
-    "plugins": {
-      "@tailwindcss/postcss": {
-       
-      }
-    }
+  "plugins": {
+    "C:/Users/caioc/projects/tailwind-v4-angular-issue/postcss-plugin-inject-text.js": {
+   
+    },
+    "@tailwindcss/postcss": {}
   }
+}

@@ -1,11 +1,17 @@
 // @reference "tailwindcss/theme";
-// @config "../../tailwind.config.cjs";
+// @config "tailwind.config.cjs";
 
-// @config "../../tailwind.config.cjs";
+// @reference "../styles";
 
 .custom-style {
+  // background: red;
   // @apply text-custom;
 
   // Uncomment this to make it break!
-  // @apply text-sky-500;
+  @apply text-sky-500;
+
+  // background: var(--color-test-500);
+
+
+  @apply bg-test-500;
 }
